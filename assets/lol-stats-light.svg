@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="404" height="150" viewBox="0 0 404 150">
+<rect x="0.5" y="0.5" width="403" height="149" rx="10" fill="#f6f8fa" stroke="#d1d9e0"/>
+<g transform="translate(360 20)" fill="none" stroke="#59636e" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20V10M10 20V4M16 20v-7M21 20H3"/></g>
+<rect x="20" y="25" width="6" height="6" fill="#c8341f"/><text x="34" y="31" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" letter-spacing="1" fill="#59636e">JAVASCRIPT · RIOT API</text>
+<text x="20" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif" font-size="19" font-weight="600" fill="#1f2328">riot-lol-stats</text>
+<text x="20" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif" font-size="13" fill="#59636e">Games and hours played per</text>
+<text x="20" y="111" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif" font-size="13" fill="#59636e">League of Legends mode.</text>
+
+</svg>
