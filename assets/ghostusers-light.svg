@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="824" height="150" viewBox="0 0 824 150">
-<rect x="0.5" y="0.5" width="823" height="149" rx="10" fill="#f6f8fa" stroke="#d1d9e0"/>
-<g transform="translate(780 20)" fill="none" stroke="#59636e" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3l18 18M10.6 5.1A10 10 0 0 1 12 5c5 0 8.5 4.5 9.5 7a13 13 0 0 1-2.6 3.8M6.6 6.6C4.6 7.9 3.2 9.9 2.5 12c1 2.5 4.5 7 9.5 7 1.9 0 3.6-.6 5-1.5M9.9 9.9a3 3 0 0 0 4.2 4.2"/></g>
-<rect x="20" y="25" width="6" height="6" fill="#c8341f"/><text x="34" y="31" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" letter-spacing="1" fill="#59636e">BETTERDISCORD · ALIUCORD · REVENGE</text>
-<text x="20" y="64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif" font-size="19" font-weight="600" fill="#1f2328">GhostUsers</text>
-<text x="20" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif" font-size="13" fill="#59636e">Locally hide selected people on Discord: messages, reactions, typing, calls and</text>
-<text x="20" y="111" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, 'PingFang SC', 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif" font-size="13" fill="#59636e">member-list entries never reach your client. Three versions, same idea.</text>
-
-</svg>
