@@ -1,5 +1,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spixyy7/spixyy7/main/assets/sheet-dark.svg"><img alt="spixy, student at South China University of Technology (华南理工大学, SCUT), Guangzhou. I build small desktop and Android tools, mostly in Rust, TypeScript and Kotlin." src="https://raw.githubusercontent.com/spixyy7/spixyy7/main/assets/sheet-light.svg" width="100%"></picture>
 
+<a href="https://x.com/spaleon_x"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spixyy7/spixyy7/main/assets/x-dark.svg"><img alt="@spaleon_x on X" src="https://raw.githubusercontent.com/spixyy7/spixyy7/main/assets/x-light.svg" width="29%"></picture></a>
+
 <p>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spixyy7/spixyy7/main/assets/h-spale-dark.svg"><img alt="Spale apps" src="https://raw.githubusercontent.com/spixyy7/spixyy7/main/assets/h-spale-light.svg" width="100%"></picture><br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spixyy7/spixyy7/main/assets/p-spalevoice-dark.svg"><img alt="SpaleVoice: hold a key and talk; it types into whatever window you're in" src="https://raw.githubusercontent.com/spixyy7/spixyy7/main/assets/p-spalevoice-light.svg" width="100%"></picture><br>
