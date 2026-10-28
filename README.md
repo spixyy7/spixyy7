@@ -9,11 +9,11 @@ Most of it is for Windows, and most of it started because I needed it myself.
 
 | | |
 |---|---|
-| [SpaleVoice](https://spixyy7.github.io/spalevoice-releases/) | Dictation for Windows. Hold a key, talk, and the text is typed into whatever window you're in. Serbian, English and Mandarin. |
-| [SpaleStudio](https://github.com/spixyy7/spalestudio-releases) | Runs several coding agents side by side: terminals, routines and an Android emulator in one window. Tauri 2. |
-| [SpaleHub](https://github.com/spixyy7/spalehub-releases) | Account, licences and updates for the apps above. |
+| SpaleVoice | Dictation for Windows. Hold a key, talk, and the text is typed into whatever window you're in. Serbian, English and Mandarin. |
+| SpaleStudio | Runs several coding agents side by side: terminals, routines and an Android emulator in one window. Tauri 2. |
+| SpaleHub | Account, licences and updates for the apps above. |
 
-Source for these is private; the linked repos have the installers.
+Source for these is private.
 
 **Other projects**
 
